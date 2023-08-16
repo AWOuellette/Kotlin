@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Homies</string>
+    <string name="home_roommates">Roommates</string>
+    <string name="home_name">Home Name</string>
+    <string name="home_reminders">Home Reminders</string>
+    <string name="links">Links:</string>
+    <string name="roommates">Roommates</string>
+    <string name="add_home">Add Home</string>
+    <string name="submit">submit</string>
+    <string name="cancel">cancel</string>
+    <string name="add_home_name">Add Home Name</string>
+    <string name="description">description</string>
+    <string name="title">title</string>
+    <string name="add_description">Add Description</string>
+    <string name="add_links">Add Links</string>
+    <string name="add_roommates">Add Roommates</string>
+    <string name="favorite">Favorite</string>
+</resources>
